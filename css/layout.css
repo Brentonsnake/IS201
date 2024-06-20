@@ -1,0 +1,39 @@
+.common
+{
+    color: white;
+    background-color: black;
+    border: 2px white;
+    position: absolute;
+}
+
+a
+{
+    color: rgb(66, 151, 255);
+    text-decoration: none;
+}
+
+/* what it looks like after you visit a page */
+a:visited
+{
+    color: rgb(235, 12, 235);
+}
+
+.links
+{
+    text-align: center;
+}
+
+.lists
+{
+    background-color: ivory;
+    color: black;
+}
+
+.underline{text-decoration: underline;}
+.bold{font-weight: bold;}
+.italic{font-style: italic;}
+
+.resumeListHeading
+{
+    text-decoration: unset;
+}
